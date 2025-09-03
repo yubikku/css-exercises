@@ -12,7 +12,7 @@ If you have suggestions to improve an exercise, ideas for a new exercise, or not
 - Foundations
     - [x] Intro-to-CSS
     - [x] Cascade
-    - [ ] Block-and-Inline
+    - [x] Block-and-Inline
     - [ ] Flex
 - Intermediate HTML-CSS
     - [ ] Advanced-grid
